@@ -25,7 +25,18 @@
       <h3 style="color: #55245F;">Contact</h3>
       <p style="line-height: 1.6;">📧 <a href="mailto:ingfranzfierrof@gmail.com" style="color: #55245F;">ingfranzfierrof@gmail.com</a></p>
       <p style="line-height: 1.6;">🔗 <a href="https://www.linkedin.com/in/byfranzz-franz-84b046198/" style="color: #55245F;">LinkedIn</a></p>
+    </section>    
+    <section>
+      <h3 style="color: #55245F;">🛠️ Technologies </h3>
+      <p style="line-height: 1.6;">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,postgres,mysql,nodejs,angular,spring,astro,tailwind,bootstrap" alt="Tecnologías" style="width: auto; height: 40px;">
+      </p>
+      <h3 style="color: #55245F;">🔧 Tools</h3>
+      <p style="line-height: 1.6;">
+        <img src="https://skillicons.dev/icons?i=figma,postman,idea,pycharm,vscode,datagrip" alt="Herramientas" style="width: auto; height: 40px;">
+      </p>
     </section>
+    
   </main>
 </body>
 </html>
