@@ -35,7 +35,13 @@
       <p style="line-height: 1.6;">
         <img src="https://skillicons.dev/icons?i=figma,postman,idea,pycharm,vscode,datagrip" alt="Herramientas" style="width: auto; height: 40px;">
       </p>
-    </section>
+    </section>    
+    
+    <div align="center">
+  <h3>Thanks for visiting! 😊</h3>
+</div>
+
+
     
   </main>
 </body>
