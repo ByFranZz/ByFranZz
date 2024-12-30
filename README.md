@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
   <title>Franz Fierro - GitHub Profile</title>
 </head>
 <body style="font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; color: #333;">
@@ -17,10 +16,10 @@
     <section>
       <h3 style="color: #55245F;">Projects</h3>
       <ul style="line-height: 1.8; padding-left: 1.5em;">
-        <li><i class="fas fa-robot" style="color: #55245F;"></i> Developing a <strong>Discord Bot</strong> for community management and fun interactions.</li>
-        <li><i class="fas fa-file-invoice-dollar" style="color: #55245F;"></i> Building a <strong>billing system</strong> integrated with local regulations.</li>
-        <li><i class="fas fa-gamepad" style="color: #55245F;"></i> Exploring <strong>game development</strong> with Unity and pixel art.</li>
-        <li><i class="fas fa-code" style="color: #55245F;"></i> Creating modern, responsive <strong>websites</strong> for businesses and personal projects.</li>
+        <li><i class="fas fa-robot" style="color: #55245F;"></i> 🤖 Developing a <strong>Discord Bot</strong> for community management and fun interactions.</li>
+        <li><i class="fas fa-file-invoice-dollar" style="color: #55245F;"></i> 💵 Building a <strong>billing system</strong> integrated with local regulations.</li>
+        <li><i class="fas fa-gamepad" style="color: #55245F;"></i> 🎮 Exploring <strong>game development</strong> with Unity and pixel art.</li>
+        <li><i class="fas fa-code" style="color: #55245F;"></i> 💻 Creating modern, responsive <strong>websites</strong> for businesses and personal projects.</li>
       </ul>
     </section>
     <section>
