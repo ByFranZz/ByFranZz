@@ -19,7 +19,7 @@
     </section>
     <section>
       <h3 style="color: #55245F;">Contact</h3>
-      <p style="line-height: 1.6;">📧 <a href="mailto:ingfranzfierrof@gmail.com" style="color: #55245F;">franz.fierro@example.com</a></p>
+      <p style="line-height: 1.6;">📧 <a href="mailto:ingfranzfierrof@gmail.com" style="color: #55245F;">ingfranzfierrof@gmail.com</a></p>
       <p style="line-height: 1.6;">🔗 <a href="https://www.linkedin.com/in/byfranzz-franz-84b046198/" style="color: #55245F;">LinkedIn</a></p>
     </section>
   </main>
