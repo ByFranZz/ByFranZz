@@ -13,8 +13,8 @@
       <p style="line-height: 1.6;">I have experience in various technologies and programming languages. I specialize in creating modern, responsive websites and applications. I love learning and taking on new challenges. 💡</p>
     </section>
     <section>
-      <h3 style="color: #55245F;">Projects</h3>
-      <ul style="line-height: 1.8; padding-left: 1.5em;">
+      <h3 align="center" style="color: #55245F;">Projects</h3>
+      <ul align="center" style="line-height: 1.8; padding-left: 1.5em;">
         <li><i class="fas fa-robot" style="color: #55245F;"></i> 🤖 Developing a <strong>Discord Bot</strong> for community management and fun interactions.</li>
         <li><i class="fas fa-file-invoice-dollar" style="color: #55245F;"></i> 💵 Building a <strong>billing system</strong> integrated with local regulations.</li>
         <li><i class="fas fa-gamepad" style="color: #55245F;"></i> 🎮 Exploring <strong>game development</strong> with Unity and pixel art.</li>
@@ -22,9 +22,9 @@
       </ul>
     </section>
     <section>
-      <h3 style="color: #55245F;">Contact</h3>
-      <p style="line-height: 1.6;">📧 <a href="mailto:ingfranzfierrof@gmail.com" style="color: #55245F;">ingfranzfierrof@gmail.com</a></p>
-      <p style="line-height: 1.6;">🔗 <a href="https://www.linkedin.com/in/byfranzz-franz-84b046198/" style="color: #55245F;">LinkedIn</a></p>
+      <h3 align="center" style="color: #55245F;">Contact</h3>
+      <p  align="center" style="line-height: 1.6;">📧 <a href="mailto:ingfranzfierrof@gmail.com" style="color: #55245F;">ingfranzfierrof@gmail.com</a></p>
+      <p align="center" style="line-height: 1.6;">🔗 <a href="https://www.linkedin.com/in/byfranzz-franz-84b046198/" style="color: #55245F;">LinkedIn</a></p>
     </section>    
     <section>
       <h3 style="color: #55245F;">🛠️ Technologies </h3>
@@ -35,11 +35,10 @@
       <p style="line-height: 1.6;">
         <img src="https://skillicons.dev/icons?i=figma,postman,idea,pycharm,vscode,datagrip" alt="Herramientas" style="width: auto; height: 40px;">
       </p>
-    </section>    
-    
-    <div align="center">
-  <h3>Thanks for visiting! 😊</h3>
-</div>
+    </section>        
+    <div align="center">  
+      <h3>Thanks for visiting! 😊</h3>
+    </div>
 
 
     
