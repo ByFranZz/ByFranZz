@@ -40,8 +40,10 @@
       <h3>Thanks for visiting! 😊</h3>
     </div>
     <div align="center" >
-    [![GitHub Streak](https://streak-stats.demolab.com?    user=ByFranZz&theme=dark&hide_border=true&border_radius=8&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=488&border=FFFFFF&background=45%2C55245F%2C27112C&sideNums=A01F8B&currStreakNum=EBEBEB&fire=A0346B&ring=A0346B&currStreakLabel=A0346B)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ByFranZz&theme=dark&hide_border=true&border_radius=8&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=488&border=FFFFFF&background=45%2C55245F%2C27112C&sideNums=A01F8B&currStreakNum=EBEBEB&fire=A0346B&ring=A0346B&currStreakLabel=A0346B)](https://git.io/streak-stats)
     <div>
+
+    
 
 
 
