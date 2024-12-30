@@ -33,7 +33,7 @@
       </p>
       <h3 align="center" style="color: #55245F;">🔧 Tools</h3>
       <p align="center" style="line-height: 1.6;">
-        <img src="https://skillicons.dev/icons?i=figma,postman,idea,pycharm,vscode,datagrip" alt="Herramientas" style="width: auto; height: 40px;">
+        <img src="https://skillicons.dev/icons?i=figma,postman,idea,pycharm,vscode" alt="Herramientas" style="width: auto; height: 40px;">
       </p>
     </section> 
     <div align="center">
